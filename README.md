@@ -2,7 +2,7 @@
 <h3 align="center">🎯 QA Enthusiast | Electronics & Telecommunications Engineer | Automation Tester</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-QA%20Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-QA%20Enthusiast-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Automation%20Testing-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Selenium-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-API%20Testing-orange?style=for-the-badge" />
