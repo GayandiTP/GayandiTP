@@ -6,18 +6,18 @@
 
 ## 📌 About Me
 - 🎓 **BSc (Hons) in Electronics and Telecommunications Engineering** - SLTC Research University
-- 💻 **Software Developer (Part-Time) at Robotikka (Pvt) Ltd**
+- 💻 **Software Developer at Robotikka (Pvt) Ltd**
 - 🏆 **Certified in API Testing, Selenium, JMeter, Java OOP, AWS Cloud Foundations**
 - 🔎 Focused on automation testing, software quality, and continuous learning.
 
 ## 🛠 Tech & Skills
-- **Programming & Scripting**: Java, JavaScript, PHP, MySQL, PostgreSQL, HTML, CSS
+- **Programming & Scripting**: Java, JavaScript, PHP, Laravel, SQL, HTML, CSS
 - **QA & Automation**: Selenium, JMeter, Postman, Manual Testing
-- **Tools & Frameworks**: Jira, Git, Laravel, Agile Methodologies
-- **Hardware & IoT**: Raspberry Pi, ESP32, Arduino
+- **Tools & Frameworks**: Jira, Git, Agile Methodologies
+- **Hardware & IoT**: Raspberry Pi Pico, ESP32, Arduino
 
 ## 📌 Experience
-🔹 **Software Developer (Part-Time) - Robotikka (Pvt) Ltd**
+🔹 **Software Developer - Robotikka (Pvt) Ltd**
    - Developed and maintained E-commerce platforms using Laravel & PHP.
    - Performed manual testing and worked in an Agile environment with Jira.
    - Managed version control with Git.
