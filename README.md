@@ -10,7 +10,7 @@
 ---
 
 ## 📌 **About Me**
-🚀 **Passionate about Software Quality Assurance, Manual Testing, Automation Testing, and Innovative Tech Solutions.**  
+🚀 **Passionate about Software Quality Assurance, Automation Testing, and Innovative Tech Solutions.**  
 I thrive on ensuring software robustness through **manual & automation testing**, with expertise in **Selenium, API Testing, and Performance Testing**.  
 
 - 🎓 **BSc (Hons) in Electronics & Telecommunications Engineering** - SLTC Research University  
