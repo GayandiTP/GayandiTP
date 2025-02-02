@@ -72,13 +72,4 @@ I thrive on ensuring software robustness through **manual & automation testing**
   <a href="https://www.linkedin.com/in/gayanditp">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:gayanditp@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/gayanditp">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://robotikka.net/">
-    <img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=web" />
-  </a>
 </p>
