@@ -48,10 +48,10 @@ I thrive on ensuring software robustness through **manual & automation testing**
 ---
 
 ## 🏆 **Certifications & Courses**
-🎓 **Performance Testing with JMeter**  
-🎓 **API Testing with Postman**  
-🎓 **Selenium & Java Automation**  
-🎓 **AWS Cloud Foundations**  
+✅ **[Performance Testing with JMeter](https://www.coursera.org/account/accomplishments/verify/UA2LROW9Y2DF?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)**  
+✅ **[API Testing with Postman](https://www.coursera.org/account/accomplishments/verify/IR1GOYXKKI3J?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)**  
+✅ **[Selenium & Java Automation](https://www.coursera.org/account/accomplishments/verify/TCELWDX0OT0M?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)**  
+✅ **[AWS Cloud Foundations](https://www.credly.com/badges/7424d3ef-9043-4eda-9014-c662d31b6f1d/linked_in?t=rwhmgk)**  
 
 ---
 
