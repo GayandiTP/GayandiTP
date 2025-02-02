@@ -4,14 +4,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Manual%20Testing-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Automation%20Testing-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Selenium-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-API%20Testing-orange?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📌 **About Me**
-🚀 **Passionate about Software Quality Assurance, Automation Testing, and Innovative Tech Solutions.**  
+🚀 **Passionate about Software Quality Assurance, Manual Testing, Automation Testing, and Innovative Tech Solutions.**  
 I thrive on ensuring software robustness through **manual & automation testing**, with expertise in **Selenium, API Testing, and Performance Testing**.  
 
 - 🎓 **BSc (Hons) in Electronics & Telecommunications Engineering** - SLTC Research University  
