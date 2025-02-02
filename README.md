@@ -34,19 +34,6 @@ I thrive on ensuring software robustness through **manual & automation testing**
 
 ---
 
-## 📌 **Experience**
-### 💼 **Software Developer - Robotikka (Pvt) Ltd**
-- Developed & maintained **E-commerce platforms** using Laravel & PHP  
-- Conducted **manual testing** and collaborated in an **Agile environment** with Jira  
-- Managed version control with **Git**  
-
-### 💼 **Trainee Software Engineer - eLogic Lanka (Pvt) Ltd**
-- Developed **Smart Car Park Management & ERP Systems**  
-- Worked with **MySQL, PostgreSQL, API testing using Postman**  
-- Conducted **manual & automation testing** using **Selenium & Java**  
-
----
-
 ## 🏆 **Certifications & Courses**
 ✅ **[Performance Testing with JMeter](https://www.coursera.org/account/accomplishments/verify/UA2LROW9Y2DF?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)**  
 ✅ **[API Testing with Postman](https://www.coursera.org/account/accomplishments/verify/IR1GOYXKKI3J?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=project)**  
